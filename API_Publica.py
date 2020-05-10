@@ -11,7 +11,7 @@ try:
     def menu():
         os.system('cls')
         print('**__MENU__**')
-        print('1. Almacena el contenido de la pagina web.')
+        print('1. Almacena el contenido de la pagina web en un json')
         print('2. Dame los titulos de la lista de Dragon Ball Z.')
         print('3. Obtener el numero de la ultima página.')
         print('4. SALIR')
